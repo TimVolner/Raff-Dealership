@@ -1,0 +1,27 @@
+[1016/200348.772:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/204926.874:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Rafael Perez\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\47b379d7-d198-4d25-8987-4d1bfb4635ab: The system cannot find the path specified. (0x3)
+[1017/205218.183:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Rafael Perez\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\467aea74-7b0e-4f39-923f-85f2b8cee6b6: The system cannot find the path specified. (0x3)
+[1017/205436.223:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Rafael Perez\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c2f7814f-286e-4c3e-aa58-fcd9364029f9: The system cannot find the path specified. (0x3)
+[1017/234237.643:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1017/234237.643:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1017/234237.643:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1017/234237.643:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1017/234238.550:ERROR:exception_snapshot_win.cc(100)] thread ID 20120 not found in process
+[1017/234238.550:ERROR:exception_snapshot_win.cc(100)] thread ID 19680 not found in process
+[1017/234238.550:ERROR:exception_snapshot_win.cc(100)] thread ID 18216 not found in process
+[1017/234238.550:ERROR:exception_snapshot_win.cc(100)] thread ID 18340 not found in process
+[1017/234239.779:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa2ba3ac88 of 36 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/234239.779:WARNING:pe_image_reader.cc(191)] could not read debug directory from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[1017/234239.779:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa2ba10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/234239.779:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[1017/234239.779:ERROR:process_memory_win.cc(73)] ReadMemory at 0x28c78975dc0 of 6656 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/234239.779:ERROR:process_snapshot_win.cc(344)] failed to read unloaded module data
+[1017/234239.779:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa2b4c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/234239.779:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[1017/234239.779:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa2b4c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/234239.779:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[1017/234239.779:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1a7693d5dc0 of 6656 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/234239.779:ERROR:process_snapshot_win.cc(344)] failed to read unloaded module data
+[1017/234239.779:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa2eda5fe8 of 8 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/234239.779:ERROR:process_snapshot_win.cc(333)] failed to read target address
+[1017/234239.779:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa2ba3ac88 of 36 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
